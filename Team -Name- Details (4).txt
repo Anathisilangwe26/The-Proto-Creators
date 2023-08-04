@@ -1,6 +1,5 @@
 Team Name: ProtoCreators
 
-
 Motto: 
 
 What is a Motto?
@@ -11,14 +10,14 @@ Brief bio of each Team Member:
 ******TO BE DELETED and replaced with: Your Name, Your Hometown, Your professional goals, Your hobbies, Your emojis you selected last Friday in class 28/07/23*****
 
 
-Team Member 1: I am Mngxozana Simnikiwe, i am from Cape Town, I want to be a software Developer , I enjoy Art and music, i selected art pallet and a smiling face because they a more suited in describing me.
+Team Member 1: I am Mngxozana Simnikiwe, I am from Cape Town, I want to be a software Developer , I enjoy Art and music, i selected art pallet and a smiling face because they a more suited in describing me.
 
 Team Member 2 : My name is Anathi Silangwe, I am from a small town in the eastern cape called Flagstaff. My main goal is to become a successful lady in tech, I wish to have perfect programming skills so that I can be able to compete well in the working industry. my main hobbies are playing netball, reading books and cooking. I am a foodie lover. My emojis are the pizza emoji and the smiley face with two hearts
 
 Team Member 3 : My name is Fanelesibonge Tshalata .I am from a little town time which called Harding situated at KwaZulu Natal. My goal is to be a software developer at Amazon. I play chess and soccer as my hobbies. I chose the book and detective emoji.
 
-Team Member 4 : My name is Simvuyele Tofile and I am from a hometown called Egqeberha. My professional goal is being a white hat hacker in cybersecurity. My hobbies are playing chess, and do coding. And the emojis I selected the last Friday in class are smiley and laughing emoji.
+Team Member 4 : My name is Simvuyele Tofile and I am from a hometown called Gqeberha. My professional goal is being a white hat hacker in cybersecurity. My hobbies are playing chess, and do coding. The emojis I selected the last Friday in class are smiley and laughing emoji.
 
+Team Member 5 : I am Ntokozo Magolego, from Pretoria. My professional goals are to build a professional network within the IT industry, master programming languages and obtain industry certifications to enhance skills and credibility. My hobbies are gaming and programming.
 
-
-Team Member 5kk
+Task 1
