@@ -21,3 +21,18 @@ Team Member 4 : My name is Simvuyele Tofile and I am from a hometown called Gqeb
 Team Member 5 : I am Ntokozo Magolego, from Pretoria. My professional goals are to build a professional network within the IT industry, master programming languages and obtain industry certifications to enhance skills and credibility. My hobbies are gaming and programming.
 
 Task 1
+SDLC methodologies.
+1. Waterfall model:  the earliest SDLC approach that was used for software development.
+2. Agile          :  A project based on delivering recquirements iteratively and incrementally throughout the life cycle.
+3. Scrum          :  A management framework that teams use to self-organise and work towards a common goal.
+
+
+
+
+
+
+
+
+
+
+
