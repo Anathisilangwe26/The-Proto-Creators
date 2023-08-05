@@ -22,14 +22,12 @@ Team Member 5 : I am Ntokozo Magolego, from Pretoria. My professional goals are 
 
 Task 1
 SDLC methodologies.
-1. Waterfall model:  the earliest SDLC approach that was used for software development.
-2. Agile          :  A project based on delivering recquirements iteratively and incrementally throughout the life cycle.
-3. Scrum          :  A management framework that teams use to self-organise and work towards a common goal.
-
-
-
-
-
+1. Waterfall model        : The earliest SDLC approach that was used for software development.
+2. Agile                  : A project based on delivering recquirements iteratively and incrementally throughout the life cycle.
+3. Scrum                  : A management framework that teams use to self-organise and work towards a common goal.
+4. DSDM                   : An agile method that focuses on the full project lifecycle.
+5. Lean                   : A concept that emphasizes optimizing efficiency and minimizing waste in the software development process. 
+6.Rational unified process: A software development and project management process that provides a disciplined and methodical approach towards assigning tasks and responsibilities in a team
 
 
 
