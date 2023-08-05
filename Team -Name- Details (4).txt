@@ -28,7 +28,8 @@ SDLC methodologies.
 4. DSDM                   : An agile method that focuses on the full project lifecycle.
 5. Lean                   : A concept that emphasizes optimizing efficiency and minimizing waste in the software development process. 
 6.Rational unified process: A software development and project management process that provides a disciplined and methodical approach towards assigning tasks and responsibilities in a team
-
+7.Feature Driven Development   : Is a customer-centric software development procedure known for short iterations and frequent releases and its purpose is to emphasize breaking down large projects into smaller , manageable steps and delivering them in quick repitition.
+8.Joint Application Development: It is a methodology that involves the client or the end user in the design and development of a software application through a succession of collaborative workshops called JAD sessions in defining the business need and developing a solution based on that need.
 
 
 
