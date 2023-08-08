@@ -7,8 +7,6 @@ What is a Motto?
 
 
 Brief bio of each Team Member:
-******TO BE DELETED and replaced with: Your Name, Your Hometown, Your professional goals, Your hobbies, Your emojis you selected last Friday in class 28/07/23*****
-
 
 Team Member 1: I am Mngxozana Simnikiwe, I am from Cape Town, I want to be a software Developer , I enjoy Art and music, i selected art pallet and a smiling face because they a more suited in describing me.
 
@@ -57,7 +55,17 @@ Phase 3: CODE and implement the services layer.
 
 
 
-TASK 3
+TASK 3  : Three phototye fidility 
+
+1. Low-fidelity prototype : A qiuck and easy way to translate high-level design concepts into tengible and testable artifacts.It is often refered as to the skeleton of the 
+                           final design because it gives the designers or programmers the idea about the project. it includes visual design meaning some if the visual 
+                           attributes are presented, it only include the important elements about the design and has interactivity.
+         The advantages  : cheap and simple , very quick and easy to create, since it's collaborative mmore people can be involved in the process increasing group work.
+       The Disadvantages : Due to the simplicity of the prototype, functionality cannot be tested ,  It also would be unclear to users during tests .Interactivity is 
+                           limited since there are no complex animations and transitions.
+             
+
+
 
 
 
