@@ -59,6 +59,9 @@ TASK 3  : Three phototye fidility
          The Disadvantages : Due to the simplicity of the prototype, functionality cannot be tested. It would also be unclear to users during tests. Interactivity is limited since there are no complex animations and transitions.
              
 
+1.Extreme prototyping : Is a development process which is used mainly for the development of web applications and also in breaking down the web development into three sequential phases. First phase is a static prototype that consists of HTML pages ,in the second phase the screens are programmed and fully operational using a simulated services layer and lastly in the third phase services are implemented.And this prototyping helps developers catch bugs and issues well before it reaches the production stage. Furthermore it ensures that the user experience and perfomance of the app match the user expectations.
+
+
 
 
 
