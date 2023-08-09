@@ -61,6 +61,10 @@ TASK 3  : Three phototye fidility
 2. High-fidelity prototype : Is a solution that is pretty close to the ready-to-release version of a product. High-fidelity prototypes take you as close as possible to a true representation of the user interface. It includes a realistic and detailed design , high interactivity since there are more complex animations and transitions and all the content in the design is based on realistic and full content. An example of such prototype would be a rich interactive sandbox that allows test participants to explore a product's different features.
       Advantages   : Improved Functionality , Better Design , Increased Efficiency , Draws potential investors and clients because of it's good demonstration on how of the product works.
      Disadvantages : Time-consuming , Expensive 
+
+3. Medium-fidelity prototype : Is a prototype with limited functionality but clickable areas which presents the interactions and navigation possibilities of an application.  Mid-fidelity prototype are created using one color (gray or black), generic font, and basic shapes such as ovals and rectangles representing individual UI elements available on the page. It includes Visual hierarchy which defines where elements should be located on the page/screen.
+    Advantages    : The prototype also gives more flexibility, exploration, and creativity during the implementation stage
+    Disadvantages :  limited functionality, longer time to create  and it is also cost more than lo-fi.
          
 
 1.Extreme prototyping : Is a development process which is used mainly for the development of web applications and also in breaking down the web development into three sequential phases. First phase is a static prototype that consists of HTML pages ,in the second phase the screens are programmed and fully operational using a simulated services layer and lastly in the third phase services are implemented.And this prototyping helps developers catch bugs and issues well before it reaches the production stage. Furthermore it ensures that the user experience and perfomance of the app match the user expectations.
