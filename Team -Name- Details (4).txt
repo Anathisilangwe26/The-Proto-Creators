@@ -35,8 +35,8 @@ Task 1: SDLC methodologies.
 9. Extreme Programming           : Is an agile software development framework that aims to produce higher-quality software and a higher quality of life for the development team.
 10. Rapid Application Development: A concept that emphasizes working on software and being more adaptative than older development methods.
 
-11.Spiral model       : is a software development methology that is a combination model and the iterative model .
-12. Phototype metholody : is a software development approach that focuses on creating early  versions of software product. 
+11. Spiral model                 : is a software development methodology that is a combination model and the iterative model .
+12. Phototype metholody          : is a software development approach that focuses on creating early versions of software products.
 
 TASK 2
 
@@ -54,37 +54,26 @@ Phase 1: Build the HTML wireframes to stimulate the presentation layer. These we
 Phase 2: Transform the wireframes into fully functional HTML pages, tying them to a stimulated service layer.
 Phase 3: Coding and implementing the services layer.
 
-
 TASK 3  : Three phototye fidility 
 
-
-1. Low-fidelity prototype :Is a quick and easy way to translate high-level design concepts into tangible and testable artifacts. It is often referred to as the skeleton of the final design because it gives the designers or programmers an idea about the project. It includes visual design, meaning some of the visual attributes are presented, but it only includes the important elements of the design and has interactivity based on the drafted design. 
-      An example of such prototype would be paper prototyping and clickable wireframes.
-      Advantages    : cheap and simple; very quick and easy to create; since it's collaborative, more people can be involved in the process, increasing group work.
+1. Low-fidelity prototype :Is a quick and easy way to translate high-level design concepts into tangible and testable artifacts. It is often referred to as the skeleton of the final design because it gives the designers or programmers an idea about the project. It includes visual design, meaning some of the visual attributes are presented, but it only includes the important elements of the design and has interactivity based on the drafted design.
+      An example of such a prototype would be paper prototyping and clickable wireframes.
+      Advantages    : Cheap and simple; very quick and easy to create; since it's collaborative, more people can be involved in the process, increasing group work.
       Disadvantages : Due to the simplicity of the prototype, functionality cannot be tested. It would also be unclear to users during tests. Interactivity is limited since there are no complex animations and transitions.
 
 2. High-fidelity prototype : Is a solution that is pretty close to the ready-to-release version of a product. High-fidelity prototypes take you as close as possible to a true representation of the user interface. It includes a realistic and detailed design , high interactivity since there are more complex animations and transitions and all the content in the design is based on realistic and full content. 
-      An example of such prototype would be a rich interactive sandbox that allows test participants to explore a product's different features.
-      Advantages   : Improved Functionality , Better Design , Increased Efficiency , Draws potential investors and clients because of it's good demonstration on how of the product works.
+      An example of such a prototype would be a rich interactive sandbox that allows test participants to explore a product's different features.
+      Advantages   : Improved Functionality , Better Design , Increased Efficiency , Draws potential investors and clients because of it's good demonstration of how the product works.
      Disadvantages : Time-consuming , Expensive 
 
-3. Medium-fidelity prototype : Is a prototype with limited functionality but clickable areas which presents the interactions and navigation possibilities of an application.  Mid-fidelity prototype are created using one color (gray or black), generic font, and basic shapes such as ovals and rectangles representing individual UI elements available on the page. It includes Visual hierarchy which defines where elements should be located on the page/screen.
+3. Medium-fidelity prototype : Is a prototype with limited functionality but clickable areas that presents the interactions and navigation possibilities of an application.  Mid-fidelity prototypes are created using one color (gray or black), a generic font, and basic shapes such as ovals and rectangles representing individual UI elements available on the page. It includes Visual hierarchy, which defines where elements should be located on the page/screen.
     Advantages    : The prototype also gives more flexibility, exploration, and creativity during the implementation stage
-    Disadvantages :  limited functionality, longer time to create  and it is also cost more than lo-fi.
+    Disadvantages : Limited functionality, longer time to create  and it also costs more than lo-fi.
          
-
-
 Task 4 : Prototype Softwares
 
-Adobe XD : is a user experience and user interface design tool that allows developers to create interactive prototypes for web and mobile applications.It allows developers to work with designers and stakeholders while designing and prototyping user interactions. Adobe XD's features include responsive design capabilities, interactive transitions, and the ability to share and gather feedback on prototypes.
-
-
-
-
-
-
-
-
-
+1. Adobe XD :Is a user experience and user interface design tool that allows developers to create interactive prototypes for web and mobile applications.It allows developers to work with designers and stakeholders while designing and prototyping user interactions. Adobe XD's features include responsive design capabilities, interactive transitions, and the ability to share and gather feedback on prototypes.
+2. Sketch   :Is a vector-based design software that is mostly used for creating user interfaces and user experiences. Although it's not just a tool for prototyping, it does provide a number of features that make it easier to create interactive prototypes. Using plugins, developers may add interactive components and transitions as well as design screens and make symbols for reusable user interface elements. After that, the prototype can be previewed and shared for feedback.
+3. InVision :Is a platform that enables developers to create interactive and animated prototypes for web and mobile applications. It provides tools for designing interfaces, creating interactive hotspots, and adding animations and transitions to simulate user interactions. InVision additionally offers collaboration features, making it simple for developers to collect feedback from team members and stakeholders. InVision can also integrate with design tools like Sketch and Adobe.
 
 
