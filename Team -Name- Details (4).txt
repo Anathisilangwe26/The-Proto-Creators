@@ -70,7 +70,6 @@ TASK 3  : Three phototye fidility
     Disadvantages :  limited functionality, longer time to create  and it is also cost more than lo-fi.
          
 
-1.Extreme prototyping : Is a development process which is used mainly for the development of web applications and also in breaking down the web development into three sequential phases. First phase is a static prototype that consists of HTML pages ,in the second phase the screens are programmed and fully operational using a simulated services layer and lastly in the third phase services are implemented.And this prototyping helps developers catch bugs and issues well before it reaches the production stage. Furthermore it ensures that the user experience and perfomance of the app match the user expectations.
 
 Task 4 : Prototype Softwares
 
