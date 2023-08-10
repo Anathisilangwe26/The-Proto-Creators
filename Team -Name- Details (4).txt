@@ -35,6 +35,8 @@ SDLC methodologies.
 
 9. Extreme Programming           : Is an agile software development framework that aims to produce higher-quality software and a higher quality of life for the development team.
 10. Rapid Application Development: A concept that emphasizes working on software and being more adaptative than older development methods.
+11.Spiral model       : is a software development methology that is a combination model and the iterative model .
+12. Phototype metholody : is a software development approach that focuses on creating early  versions of software product. 
 
 TASK 2
 
