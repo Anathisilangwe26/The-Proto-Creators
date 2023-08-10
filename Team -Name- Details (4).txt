@@ -19,9 +19,8 @@ Team Member 4: My name is Simvuyele Tofile and I am from a hometown called Gqebe
 Team Member 5: I am Ntokozo Magolego, from Pretoria. My professional goals are to build a professional network within the IT industry, master programming languages and obtain industry certifications to enhance my skills and credibility. My hobbies are gaming and programming.
 
 
-Task 1
+Task 1: SDLC methodologies.
 
-SDLC methodologies.
 1. Waterfall model               : The earliest SDLC approach that was used for software development.
 2. Agile                         : A project based on delivering requirements iteratively and incrementally throughout the life cycle.
 3. Scrum                         : A management framework that teams use to self-organize and work towards a common goal.
@@ -72,6 +71,12 @@ TASK 3  : Three phototye fidility
          
 
 1.Extreme prototyping : Is a development process which is used mainly for the development of web applications and also in breaking down the web development into three sequential phases. First phase is a static prototype that consists of HTML pages ,in the second phase the screens are programmed and fully operational using a simulated services layer and lastly in the third phase services are implemented.And this prototyping helps developers catch bugs and issues well before it reaches the production stage. Furthermore it ensures that the user experience and perfomance of the app match the user expectations.
+
+Task 4 : Prototype Softwares
+
+Adobe XD : is a user experience and user interface design tool that allows developers to create interactive prototypes for web and mobile applications.It allows developers to work with designers and stakeholders while designing and prototyping user interactions. Adobe XD's features include responsive design capabilities, interactive transitions, and the ability to share and gather feedback on prototypes.
+
+
 
 
 
