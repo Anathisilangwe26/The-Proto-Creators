@@ -34,6 +34,7 @@ Task 1: SDLC methodologies.
 
 9. Extreme Programming           : Is an agile software development framework that aims to produce higher-quality software and a higher quality of life for the development team.
 10. Rapid Application Development: A concept that emphasizes working on software and being more adaptative than older development methods.
+
 11.Spiral model       : is a software development methology that is a combination model and the iterative model .
 12. Phototype metholody : is a software development approach that focuses on creating early  versions of software product. 
 
@@ -53,7 +54,9 @@ Phase 1: Build the HTML wireframes to stimulate the presentation layer. These we
 Phase 2: Transform the wireframes into fully functional HTML pages, tying them to a stimulated service layer.
 Phase 3: Coding and implementing the services layer.
 
+
 TASK 3  : Three phototye fidility 
+
 
 1. Low-fidelity prototype :Is a quick and easy way to translate high-level design concepts into tangible and testable artifacts. It is often referred to as the skeleton of the final design because it gives the designers or programmers an idea about the project. It includes visual design, meaning some of the visual attributes are presented, but it only includes the important elements of the design and has interactivity based on the drafted design. 
       An example of such prototype would be paper prototyping and clickable wireframes.
