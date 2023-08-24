@@ -12,7 +12,7 @@ Team Member 3: My name is Fanelesibonge Tshalata. I am from a little town called
 
 Team Member 4: My name is Simvuyele Tofile and I am from a hometown called Gqeberha. My professional goal is to be a white-hat hacker in cybersecurity. My hobbies are playing chess and coding. The emojis I selected last Friday in class are smiley and laughing emojis.
 
-Team Member 5: I am Ntokozo Magolego, from Pretoria. My professional goals are to build a professional network within the IT industry, master programming languages and obtain industry certifications to enhance my skills and credibility. My hobbies are gaming and programming.
+Team Member 5: I am Ntokozo Magolego, from Pretoria. My professional goals are to build a professional network within the IT industry, master programming languages and obtain industry certifications to enhance my skills and credibility. My hobbies are gaming and programming.The emojis I selected are the music and dollar emojis.
 
 
 Task 1: SDLC methodologies.
